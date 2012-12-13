@@ -1,0 +1,16 @@
+body {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+h1 {
+	text-align: center;
+}
+.container {
+	margin: 0 auto;
+	max-width: 700px;
+}
+#chart {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
